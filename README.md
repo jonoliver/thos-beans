@@ -1,5 +1,8 @@
 ## thos Beans
+
 Let the world know that you;re thinking about [thos Beans](https://knowyourmeme.com/memes/im-thinking-about-thos-beans) with a [toasty](https://www.youtube.com/watch?v=QpN1220dTZk) easter egg.
+
+[Try it out.](https://jonoliver.github.io/thos-beans)
 
 ## Installation
 
